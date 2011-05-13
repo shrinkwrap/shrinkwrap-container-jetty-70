@@ -14,13 +14,13 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.jboss.shrinkwrap.container</groupId>
-  <artifactId>shrinkwrap-extension-jetty-7</artifactId>
+  <artifactId>shrinkwrap-extension-jetty-70</artifactId>
   <version>1.0.0-beta-1-SNAPSHOT</version>
-  <name>ShrinkWrap Jetty 7 Integration Extension</name>
+  <name>ShrinkWrap Container Jetty 7 (and up) Integration Extension</name>
   <description>ShrinkWrap integration extension for the Jetty 7 (and up) container</description>
 
    <properties>
-     <version.org.jboss.shrinkwrap>1.0.0-beta-1-SNAPSHOT</version.org.jboss.shrinkwrap>
+     <version.org.jboss.shrinkwrap>1.0.0-beta-1</version.org.jboss.shrinkwrap>
      <!-- Known to work with Jetty version 7.0.0.v20091005 through 8.0.0.M0 -->
      <version.org.eclipse.jetty_jetty>7.1.4.v20100610</version.org.eclipse.jetty_jetty>
      <version.org.apache.httpcomponents_httpclient>4.0.1</version.org.apache.httpcomponents_httpclient>
